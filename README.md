@@ -1,5 +1,5 @@
 # MyPilot VSCode Extension
-## Overview
+## <span style="color:red">Overview</span>
 The MyPilot extension for Visual Studio Code is an AI-powered coding assistant designed to enhance the coding experience by providing contextual help and code suggestions. This extension integrates with an AI model to assist users with their coding queries based on the surrounding code context.
 ## Features
 ### Contextual Code Assistance: 
